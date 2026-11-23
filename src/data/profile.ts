@@ -89,7 +89,7 @@ const profile: ProfileData = {
       },
 
       // TODO: Add your portfolio website URL if available.
-      // { label: "Portfolio", url: "YOUR_PORTFOLIO_URL" },
+      { label: "Portfolio", url: "https://portfolio-amarnath-lz1kzqq1q9.vercel.app/" },
     ],
   },
 
@@ -191,7 +191,7 @@ const profile: ProfileData = {
       name: "IntelliChat AI – Conversational RAG Assistant",
 
       description:
-        "Built a multi-user conversational AI assistant with a reusable knowledge base supporting PDF, TXT, and DOCX documents. Implemented Retrieval-Augmented Generation for cross-chat document retrieval and source-cited answers. Developed a LangGraph agent workflow with calculator, web search, weather, Wikipedia, and currency conversion tools. Evaluated the system using a 52-case test suite, achieving 100% expected-document retrieval, 97.44% expected-page retrieval, and a 94.87% citation-check pass rate.",
+        "Built a multi-user conversational AI assistant with a reusable knowledge base supporting PDF, TXT, and DOCX documents. Implemented Retrieval-Augmented Generation for cross-chat document retrieval and source-cited answers. Developed a LangGraph agent workflow with calculator, web search, weather, Wikipedia, and currency conversion tools.",
 
       technologies: [
         "Python",
